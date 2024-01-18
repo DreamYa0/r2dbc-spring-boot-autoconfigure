@@ -1,0 +1,2 @@
+com.g7.framework.r2dbc.R2dbcAutoConfiguration
+com.g7.framework.r2dbc.transaction.TransactionAutoConfiguration
